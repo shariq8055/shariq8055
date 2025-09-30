@@ -1,8 +1,9 @@
-# Hi, I'm Shariq Ahmed
+<h1 align="center"> Hi, I'm Shariq Ahmed</h1>
 
-**Aspiring Data Analyst | Business Intelligence Enthusiast | Problem Solver**
+<p align="center"><b>Aspiring Data Analyst | Business Intelligence Enthusiast | Problem Solver</b></p>
 
 I specialize in turning raw data into meaningful insights using SQL, Python, Excel, and Power BI. My focus is on business analytics, data visualization, and decision-making support through well-structured reporting and dashboards.
+
 
 ---
 
